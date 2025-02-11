@@ -1,7 +1,3 @@
-variable "api_name" {
-  description = "The name of the API Gateway."
-  type        = string
-}
 
 variable "route_key" {
   description = "The route key for the API Gateway route."
